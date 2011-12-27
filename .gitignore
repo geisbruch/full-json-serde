@@ -1,0 +1,7 @@
+.classpath
+.settings
+.project
+*.class
+*.swp
+*.swo
+*.jar
